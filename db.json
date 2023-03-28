@@ -1,15 +1,15 @@
 {
-    "products":[
+    "products": [
         {
+            "image1": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/371/1063035711_2_1_1.jpg?ts=1648724945307",
+            "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+            "image3": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/371/1063035711_2_1_1.jpg?ts=1648724945307",
+            "name": "STRIPED SHIRT",
+            "price": "2990.00",
             "id": 1,
-            "img1": "https://images.urbndata.com/is/image/Anthropologie/4112920000004_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
-            "img2": "https://images.urbndata.com/is/image/Anthropologie/4112920000004_001_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-            "img3": "https://images.urbndata.com/is/image/Anthropologie/4112920000004_001_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-            "title": "Pilcro Sustainable Double-V Tee",
-            "category": "Hutch",
-            "size": "M",
-            "price": 215,
-            "color":"red"
+            "category": "men",
+            "color":"white"
         }
+
     ]
 }
