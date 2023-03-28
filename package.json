@@ -1,0 +1,25 @@
+{
+  "name": "api_data_for_fashinix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gangaram1998/api_data_for_fashinix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gangaram1998/api_data_for_fashinix/issues"
+  },
+  "homepage": "https://github.com/Gangaram1998/api_data_for_fashinix#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
